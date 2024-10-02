@@ -8,7 +8,7 @@ import streamlit as st
 st.title('Dashboard Analisis Penggunaan Sepeda Harian')
 
 # Membaca data (pastikan file df_day.csv ada di direktori yang sama dengan script)
-df_day = pd.read_csv("https://raw.githubusercontent.com/anggerharyo/Proyek-Analisis-Data_Angger-Haryo-Putranto/main/dashboard/Bike_Sharing_Dataset/day.csv")
+df_day = pd.read_csv("https://raw.githubusercontent.com/anggerharyo/Proyek-Analisis-Data_Angger-Haryo-Putranto/main/dashboard/Bike_sharing_Dataset/day.csv")
 
 # Pertanyaan 1: Korelasi cuaca dengan penggunaan sepeda
 st.subheader('Korelasi Faktor Cuaca dan Penggunaan Sepeda Harian')
