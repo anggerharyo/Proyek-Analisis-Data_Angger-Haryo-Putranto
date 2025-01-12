@@ -1,5 +1,5 @@
 # Proyek-Analisis-Data_Angger-Haryo-Putranto
-# Dashboard Angger Haryo <3
+# Dashboard Angger Haryo 
 
 ## Setup Environment - Shell/Terminal
 #### mkdir Proyek-Analisis-Data
