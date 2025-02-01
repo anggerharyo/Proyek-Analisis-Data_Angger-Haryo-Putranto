@@ -1,6 +1,8 @@
-# 📊 Proyek Analisis Data - Angger Haryo Putranto
+# 📊 Proyek-Analisis-Data_Angger-Haryo-Putranto
 
-## 📁 Struktur Proyek
+## 📁 Struktur Direktori
+
+```
 Proyek-Analisis-Data/
 │── dashboard            
 │── data                 
@@ -8,7 +10,7 @@ Proyek-Analisis-Data/
 │── notebooks    
 │── requirements.txt            
 │── url.txt               
-
+```
 
 ## Setup Environment - Shell/Terminal
 #### mkdir Proyek-Analisis-Data
