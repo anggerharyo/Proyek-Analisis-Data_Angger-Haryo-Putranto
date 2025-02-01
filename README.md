@@ -1,24 +1,31 @@
 # 📊 Proyek-Analisis-Data_Angger-Haryo-Putranto
+### Proyek ini bertujuan untuk melakukan analisis data dari dataset dan menyajikan hasilnya dalam bentuk dashboard interaktif menggunakan Streamlit. 
 
 ## 📁 Struktur Direktori
 
 ```
-Proyek-Analisis-Data/
-│── dashboard            
-│── data                 
-│── README.md         
-│── notebooks    
-│── requirements.txt            
-│── url.txt               
+📜 Analisis Data 
+│── dashboard               # File utama Streamlit            
+│── data                    # Folder untuk menyimpan dataset
+│── README.md               # Dokumentasi proyek
+│── notebook.ipynb          # File Jupyter Notebook untuk eksplorasi dan analisis data 
+│── requirements.txt        # Daftar dependensi yang dibutuhkan
+│── url.txt                 # File berisi link terkait proyek
 ```
 
-## Setup Environment - Shell/Terminal
-#### mkdir Proyek-Analisis-Data
-#### cd Proyek-Analisis-Data
-#### pipenv install
-#### pipenv shell
-#### pip install -r requirements.txt
+## 🛠️ Setup Environment
+```
+1️⃣ Buat direktori proyek dan masuk ke dalamnya
+mkdir Proyek-Analisis-Data
+cd Proyek-Analisis-Data
 
+2️⃣ Install dan aktifkan virtual environment
+pipenv install
+pipenv shell
 
-## Run steamlit app
-#### streamlit run dashboard.py
+3️⃣ Install dependensi yang diperlukan
+pip install -r requirements.txt
+
+4️⃣ Menjalankan Dashboard
+streamlit run dashboard/dashboard.py
+```
