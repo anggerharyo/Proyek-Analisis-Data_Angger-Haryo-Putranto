@@ -1,6 +1,13 @@
 # 📊 Proyek Analisis Data - Angger Haryo Putranto
 
 ## 📁 Struktur Proyek
+Proyek-Analisis-Data/
+│── dashboard            
+│── data                 
+│── README.md         
+│── notebooks    
+│── requirements.txt            
+│── url.txt               
 
 
 ## Setup Environment - Shell/Terminal
