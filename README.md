@@ -1,5 +1,5 @@
-# Proyek-Analisis-Data_Angger-Haryo-Putranto
-# Dashboard Angger Haryo 
+# 📊 Proyek Analisis Data - Angger Haryo Putranto
+# Dashboard Analisis Data
 
 ## Setup Environment - Shell/Terminal
 #### mkdir Proyek-Analisis-Data
