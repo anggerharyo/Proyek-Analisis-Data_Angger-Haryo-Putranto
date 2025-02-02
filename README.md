@@ -1,5 +1,5 @@
 # 📊 Proyek-Analisis-Data_Angger-Haryo-Putranto
-### Proyek ini bertujuan untuk melakukan analisis data dari dataset dan menyajikan hasilnya dalam bentuk dashboard interaktif menggunakan Streamlit. 
+### Proyek ini bertujuan untuk melakukan analisis data dari dataset dan menyajikan hasilnya dalam bentuk dashboard interaktif menggunakan Streamlit. Dashboard ini akan membantu menjawab pertanyaan bisnis dan memberikan wawasan yang berguna untuk pengambilan keputusan.
 
 ## 📁 Struktur Direktori
 
