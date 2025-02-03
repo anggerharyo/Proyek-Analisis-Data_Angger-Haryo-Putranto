@@ -8,7 +8,7 @@
 │── dashboard               # File utama Streamlit            
 │── data                    # Folder untuk menyimpan dataset
 │── README.md               # Dokumentasi proyek
-│── notebook.ipynb          # File Jupyter Notebook untuk eksplorasi dan analisis data 
+│── notebook.ipynb          # File Notebook untuk eksplorasi dan analisis data 
 │── requirements.txt        # Daftar dependensi yang dibutuhkan
 │── url.txt                 # File berisi link terkait proyek
 ```
