@@ -1,6 +1,10 @@
 # Bike Sharing Usage Analysis 
 ## Exploratory Data Analysis and Interactive Dashboard using Python and Streamlit.
-### This project explores daily bike-sharing usage patterns and examines their relationship with weather conditions, seasons, and working days. The results are presented through an interactive Streamlit dashboard to make the findings easier to understand.
+```
+Exploratory Data Analysis and Interactive Dashboard using Python and Streamlit.
+This project explores daily bike-sharing usage patterns and examines their relationship with weather conditions, seasons, and working days. The results are presented through an interactive Streamlit dashboard to make the findings easier to understand.
+
+```
 
 ## 🔗 Live Dashboard
 [Open the Streamlit Dashboard](https://bike-sharing-analysis-by-anggerharyo.streamlit.app/)
