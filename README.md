@@ -1,5 +1,11 @@
-# 📊 Proyek-Analisis-Data_Angger-Haryo-Putranto
-### Proyek ini bertujuan untuk melakukan analisis data dari dataset dan menyajikan hasilnya dalam bentuk dashboard interaktif menggunakan Streamlit. Dashboard ini akan membantu menjawab pertanyaan bisnis dan memberikan wawasan yang berguna untuk pengambilan keputusan.
+# Bike Sharing Usage Analysis 
+## Exploratory Data Analysis and Interactive Dashboard using Python and Streamlit.
+### This project explores daily bike-sharing usage patterns and examines their relationship with weather conditions, seasons, and working days. The results are presented through an interactive Streamlit dashboard to make the findings easier to understand.
+
+## 🔗 Live Dashboard
+[Open the Streamlit Dashboard](https://bike-sharing-analysis-by-anggerharyo.streamlit.app/)
+
+
 
 ## 📁 Struktur Direktori
 
@@ -29,3 +35,4 @@ pip install -r requirements.txt
 4️⃣ Menjalankan Dashboard
 streamlit run dashboard/dashboard.py
 ```
+
